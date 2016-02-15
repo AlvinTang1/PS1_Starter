@@ -1,6 +1,6 @@
 package MainPackage;
 
-public class TangA {
+public class TangAlvin {
 	public static void HelloWorld(){
 		
 		System.out.println("Hello World");

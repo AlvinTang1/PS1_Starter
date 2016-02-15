@@ -7,7 +7,7 @@ public class Main {
 	 *My Github Account Name: AlvinTang1
 	 *		
 	 */
-		TangA.HelloWorld();
+		TangAlvin.HelloWorld();
 	}
 
 }
